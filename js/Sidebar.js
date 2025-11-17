@@ -87,7 +87,7 @@ if (logoutBtn) {
   logoutBtn.addEventListener('click', function() {
     console.log('Logout button clicked');
     sessionStorage.removeItem('user'); // Remove login user info
-    window.location.href = '/'; // Redirect to login page (index)
+    window.location.href = '/FISTO_MARKETING/'; 
   });
 }
 
