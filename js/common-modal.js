@@ -120,7 +120,7 @@ const CommonModal = {
             return;
         }
 
-        icon.src = "/FISTO_MARKETING/assets/images/info_icon.webp';
+        icon.src = "/FISTO_MARKETING/assets/images/info_icon.webp";
         icon.alt = 'Info';
         titleEl.textContent = title;
         titleEl.style.color = '#2D6BFF';
@@ -166,7 +166,7 @@ const CommonModal = {
             return;
         }
 
-        icon.src = "/FISTO_MARKETING/assets/images/warning_icon.webp';
+        icon.src = "/FISTO_MARKETING/assets/images/warning_icon.webp";
         icon.alt = 'Warning';
         titleEl.textContent = title;
         titleEl.style.color = '#f59e0b';

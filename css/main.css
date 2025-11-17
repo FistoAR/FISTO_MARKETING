@@ -35,7 +35,7 @@
 
 @font-face {
     font-family: 'Gilroy-Bold';
-    src: url('/assets/fonts/gilroy_fonts/Gilroy-Bold.ttf') format('truetype');
+    src: url('/FISTO_MARKETING/assets/fonts/gilroy_fonts/Gilroy-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -43,7 +43,7 @@
 
 @font-face {
     font-family: 'Gilroy-SemiBold';
-    src: url('/assets/fonts/gilroy_fonts/Gilroy-SemiBold.ttf') format('truetype');
+    src: url('/FISTO_MARKETING/assets/fonts/gilroy_fonts/Gilroy-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -51,7 +51,7 @@
 
 @font-face {
     font-family: 'Gilroy-Medium';
-    src: url('/assets/fonts/gilroy_fonts/Gilroy-Medium.ttf') format('truetype');
+    src: url('/FISTO_MARKETING/assets/fonts/gilroy_fonts/Gilroy-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -59,7 +59,7 @@
 
 @font-face {
     font-family: 'Montserrat-Thin';
-    src: url('/assets/fonts/Montserrat_fonts/Montserrat-Thin.ttf') format('truetype');
+    src: url('/FISTO_MARKETING/assets/fonts/Montserrat_fonts/Montserrat-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
