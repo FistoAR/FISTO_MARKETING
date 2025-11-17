@@ -87,6 +87,8 @@
    =================================== */
 
 .sidebar-nav {
+    opacity: 0;
+    pointer-events: none;
     flex: 1;
     padding: 1rem 0.75rem; /* 16px 12px */
 }

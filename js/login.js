@@ -23,7 +23,7 @@ document.getElementById('loginForm').addEventListener('submit', async function(e
         employee_id: result.employee_id
       }));
       // window.location.href = '/dashboard';
-      window.location.href = '/FISTO_FINANCE/dashboard';
+      window.location.href = '/FISTO_MARKETING/marketing.html';
     } else {
       document.getElementById('errorMessage').style.display = 'block';
       document.getElementById('errorMessage').textContent = result.message;
